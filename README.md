@@ -1,1 +1,1 @@
-# E-commerce : A simple front-end for ecommerce shopping website .
+# E-commerce : A front-end for ecommerce shopping website .
