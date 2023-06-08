@@ -114,7 +114,7 @@ body {
 
 #navbar li a:hover,
 #navbar li a.active{
-    color:#088178;
+    color:#ff4d30;
 }
 
 #navbar li a.active::after,
@@ -122,7 +122,7 @@ body {
     content: "";
     width:30%;
     height:2px;
-    background: #088178;
+    background: #ff4d30;
     position:absolute;
     bottom:-3px;
     left:20px;
@@ -158,13 +158,13 @@ body {
 }
 
 #hero h1{
-    color:#088178;
+    color:#ff4d30;
 }
 
 #hero button{
     background-image: url('img/button.png');
     background-color:transparent;
-    color:#088178;
+    color:#ff4d30;
     border:0;
     padding:14px 80px 14px 65px;
     background-repeat:no-repeat;
@@ -203,7 +203,7 @@ body {
     padding:9px 8px 6px 8px;
     line-height: 1;
     border-radius:4px;
-    color:#088178;
+    color:#ff4d30;
     background-color: #fddde4;
 }
 
@@ -285,7 +285,7 @@ body {
   padding-top:7px;
   font-size:15px;
   font-weight: 700;
-  color:#088178;
+  color:#ff4d30;
 }
 
 #product1 .pro .cart{
@@ -293,7 +293,7 @@ body {
   height:40px;
   line-height:40px;
   border-radius: 50px;
-  color:#088178;
+  color:#ff4d30;
   background-color: #e8f6ea;
   position: absolute;
   bottom:20px;
@@ -330,7 +330,7 @@ body {
 }
 
 #banner button:hover{
-  background:#088178;
+  background:#ff4d30;
   color:#fff;
 }
 
@@ -374,8 +374,8 @@ body {
 }
 
 #sm-banner .banner-box:hover button{
-  background-color: #088178;
-  border: 1px solid #088178;
+  background-color: #ff4d30;
+  border: 1px solid #ff4d30;
 }
 
 #sm-banner .banner-box2{
@@ -468,7 +468,7 @@ body {
 }
 
 #newsletter button{
-  background-color:#088178;
+  background-color:#ff4d30;
   color:#fff;
   white-space: nowrap;
   border-top-left-radius: 0px;
@@ -520,7 +520,7 @@ footer .follow i{
 }
 
 footer .install .row img{
-  border: 1.3px solid #088178;
+  border: 1.3px solid #ff4d30;
   border-radius: 10px;
 }
 
@@ -530,7 +530,7 @@ footer .install img{
 
 footer .follow i:hover,
 footer a:hover{
-  color:#088178;
+  color:#ff4d30;
 }
 
 footer .copyright{
@@ -561,7 +561,7 @@ footer .copyright{
 
 #pagination a{
   text-decoration: none;
-  background-color: #088178;
+  background-color: #ff4d30;
   padding:15px 20px;
   border-radius: 4px;
   color:#fff;
@@ -632,7 +632,7 @@ footer .copyright{
 }
 
 #prodetails .single-pro-details button{
-  background-color: #088178;
+  background-color: #ff4d30;
   color:#fff;
 }
 
@@ -691,11 +691,11 @@ footer .copyright{
 }
 
 #blog .blog-details a:hover{
-  color:#088178;
+  color:#ff4d30;
 }
 
 #blog .blog-details a:hover::after{
-  background-color: #088178;
+  background-color: #ff4d30;
 }
 
 #blog .blog-box h1{
@@ -820,7 +820,7 @@ footer .copyright{
 }
 
 #form-details form button{
-  background-color: #088178;
+  background-color: #ff4d30;
   color:#fff;
 }
 
@@ -942,7 +942,7 @@ footer .copyright{
 
 #coupon button,
 #subtotal button{
-  background-color:#088178;
+  background-color:#ff4d30;
   color:#fff;
   padding:12px 20px;
 }
